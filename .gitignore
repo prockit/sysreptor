@@ -11,3 +11,5 @@ dev/.env
 !.vscode/launch.json
 
 .cursor
+
+designs/

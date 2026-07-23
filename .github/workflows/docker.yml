@@ -1,6 +1,9 @@
 name: Build container
 
 on:
+  push:
+    branches:
+      - custom-changes
   workflow_dispatch:
     inputs:
       version:
